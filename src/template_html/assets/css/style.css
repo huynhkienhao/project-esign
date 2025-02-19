@@ -1,0 +1,53 @@
+.background {
+    background-color: gray;
+    padding: 150px 450px;
+}
+
+.form-login {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* padding: 30px; */
+}
+
+.form-login__heading--title {
+    font-size: 2.5rem;
+}
+
+.form-login__input {
+    font-size: 1.6rem;
+}
+
+.form-login__input label {
+    font-weight: 600;
+}
+
+.form-login__input input {
+    height: 40px;
+    background-color: #8080805c;
+    font-size: 1.6rem;
+}
+
+.form-login__forget--password {
+    font-size: 1.6rem;
+}
+
+.form-login__button button {
+
+}
+
+.form-login__button .form-login__button--login {
+    background-color: #0c93ff;
+    font-size: 1.7rem;
+    font-weight: 600;
+    padding: 8px 0px;
+    border-radius: 20px;
+}
+
+.form-login__button .form-login__button--register {
+    background-color: #16ff4e;
+    font-size: 1.7rem;
+    font-weight: 600;
+    padding: 8px 0px;
+    border-radius: 20px;
+}
