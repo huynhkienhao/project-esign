@@ -1,13 +1,12 @@
 .background {
     background-color: gray;
-    padding: 150px 450px;
+    padding: 130px 450px;
 }
 
 .form-login {
     background-color: white;
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    /* padding: 30px; */
 }
 
 .form-login__heading--title {
